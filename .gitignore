@@ -181,5 +181,8 @@ pyrightconfig.json
 *.pkl
 *.pickle
 *.parquet
+*.zip
+*.gz
+*.txt
 
 config.*
